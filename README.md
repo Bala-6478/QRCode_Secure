@@ -1,4 +1,4 @@
-# Firebase Studio
+# QRCode_Secure
 
 This is a NextJS starter in Firebase Studio.
 
