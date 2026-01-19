@@ -1,6 +1,6 @@
 # QRCode_Secure
 
-# CMD and Vs code and Run this Code :
+## CMD and Vs code and Run this Code :
 * npm install
 * npm dev run
 * 
